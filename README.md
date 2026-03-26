@@ -28,8 +28,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-alves-2002\&show_icons=true\&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-alves-2002\&layout=compact\&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-alves-2002&layout=compact&theme=dark)
 
 ---
