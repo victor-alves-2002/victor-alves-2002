@@ -26,9 +26,9 @@
 
 ## 📈 Estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-alves-2002&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victor-alves-2002&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-alves-2002&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victor-alves-2002&layout=compact&theme=tokyonight"/>
 
 ---
 
