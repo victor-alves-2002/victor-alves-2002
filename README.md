@@ -26,6 +26,8 @@
 
 ## 📈 Estatísticas
 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=victor-alves-2002)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-alves-2002\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-alves-2002\&layout=compact\&theme=tokyonight)
