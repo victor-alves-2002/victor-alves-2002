@@ -26,15 +26,7 @@
 
 ## 📈 Estatísticas
 
-![Por Repositório](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-alves-2002&theme=tokyonight)
-
-![Por Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-alves-2002&theme=tokyonight)
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-alves-2002&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-alves-2002&theme=tokyonight)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-alves-2002&theme=tokyonight)
 
 ---
 
